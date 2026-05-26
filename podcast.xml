@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>The Daily Briefing with GLaDOS</title>
+    <link>https://tycooncoder.github.io/stock-podcast</link>
+    <language>en</language>
+    <description>A daily stock market briefing delivered by GLaDOS. Covers RDDT, NVDA, DUOL, DIS, UNH, SOFI, and V with price action, news, and just a hint of passive-aggressive commentary.</description>
+    <copyright>© 2026 Joshua Simon</copyright>
+    <itunes:author>Jarvis &amp; GLaDOS</itunes:author>
+    <itunes:subtitle>Your sarcastic AI stock market update</itunes:subtitle>
+    <itunes:summary>A daily stock market briefing delivered by GLaDOS. Covers RDDT, NVDA, DUOL, DIS, UNH, SOFI, and V with price action, news, and just a hint of passive-aggressive commentary.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Jarvis &amp; GLaDOS</itunes:name>
+      <itunes:email>jgsimon@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Stock Briefing — 2026-05-26</title>
+      <link>https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.ogg</link>
+      <description>Good evening, and welcome to your daily portfolio briefing for Tuesday, May 26th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. SoFi, ticker SOFI, closed at fifteen dollars and ninety-eight cents, up two point three percent on the day. In the news: Q1 Earnings Highlights SoFi NASDAQ SOFI Vs The Rest Of The Personal Loan Stocks. Quarterly earnings results are a good time to check in on a company s progress, especially compared to its peers in...</description>
+      <pubDate>Tue, 26 May 2026 16:00:00 -0400</pubDate>
+      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.ogg" length="862161" type="audio/ogg" />
+      <itunes:duration>215</itunes:duration>
+      <itunes:summary>Good evening, and welcome to your daily portfolio briefing for Tuesday, May 26th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. SoFi, ticker SOFI, closed at fifteen dollars and ninety-eight cents, up two point three percent on the day. In the news: Q1 Earnings Highlights SoFi NASDAQ SOFI Vs The Rest Of The Personal Loan Stocks. Quarterly earnings results are a good time to check in on a company s progress, especially compared to its peers in...</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
