@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>The Daily Briefing with GLaDOS</title>
     <link>https://tycooncoder.github.io/stock-podcast</link>
+    <atom:link href="https://tycooncoder.github.io/stock-podcast/podcast.xml" rel="self" type="application/rss+xml" />
     <language>en</language>
     <description>A daily stock market briefing delivered by GLaDOS. Covers RDDT, NVDA, DUOL, DIS, UNH, SOFI, and V with price action, news, and just a hint of passive-aggressive commentary.</description>
     <copyright>Copyright 2026 Joshua Simon</copyright>
