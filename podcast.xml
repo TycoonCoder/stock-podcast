@@ -19,9 +19,10 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://tycooncoder.github.io/stock-podcast/podcast_cover.jpg" />
     <item>
       <title>Stock Briefing for 2026-05-26</title>
-      <link>https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.m4a</link>
+      <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-05-26.html</link>
       <description>Good evening, and welcome to your daily portfolio briefing for Tuesday, May 26th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. SoFi, ticker SOFI, closed at fifteen dollars and ninety-eight cents, up two point three percent on the day. In the news: Q1 Earnings Highlights SoFi NASDAQ SOFI Vs The Rest Of The Personal Loan Stocks. Quarterly earnings results are a good time to check in on a company s progress, especially compared to its peers in...</description>
       <pubDate>Tue, 26 May 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">stock-briefing-2026-05-26</guid>
@@ -34,7 +35,7 @@
     </item>
     <item>
       <title>Stock Briefing for 2026-05-25</title>
-      <link>https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-25.m4a</link>
+      <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-05-25.html</link>
       <description>Good evening, and welcome to your daily portfolio briefing for Monday, May 25th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. UnitedHealth, ticker UNH, closed at three hundred eighty-eight dollars and forty-seven cents, up one point six percent on the day. Duolingo, ticker DUOL, closed at one hundred six dollars and sixty-one cents, up zero point nine percent on the day. Now for the stocks that moved lower today. Reddit, ticker RDDT, closed...</description>
       <pubDate>Mon, 25 May 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">stock-briefing-2026-05-25</guid>
