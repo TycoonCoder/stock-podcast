@@ -5,12 +5,12 @@
     <link>https://tycooncoder.github.io/stock-podcast</link>
     <language>en</language>
     <description>A daily stock market briefing delivered by GLaDOS. Covers RDDT, NVDA, DUOL, DIS, UNH, SOFI, and V with price action, news, and just a hint of passive-aggressive commentary.</description>
-    <copyright>© 2026 Joshua Simon</copyright>
-    <itunes:author>Jarvis &amp; GLaDOS</itunes:author>
+    <copyright>Copyright 2026 Joshua Simon</copyright>
+    <itunes:author>Jarvis and GLaDOS</itunes:author>
     <itunes:subtitle>Your sarcastic AI stock market update</itunes:subtitle>
     <itunes:summary>A daily stock market briefing delivered by GLaDOS. Covers RDDT, NVDA, DUOL, DIS, UNH, SOFI, and V with price action, news, and just a hint of passive-aggressive commentary.</itunes:summary>
     <itunes:owner>
-      <itunes:name>Jarvis &amp; GLaDOS</itunes:name>
+      <itunes:name>Jarvis and GLaDOS</itunes:name>
       <itunes:email>jgsimon@icloud.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Business">
@@ -19,11 +19,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Stock Briefing — 2026-05-26</title>
+      <title>Stock Briefing for 2026-05-26</title>
       <link>https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.m4a</link>
       <description>Good evening, and welcome to your daily portfolio briefing for Tuesday, May 26th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. SoFi, ticker SOFI, closed at fifteen dollars and ninety-eight cents, up two point three percent on the day. In the news: Q1 Earnings Highlights SoFi NASDAQ SOFI Vs The Rest Of The Personal Loan Stocks. Quarterly earnings results are a good time to check in on a company s progress, especially compared to its peers in...</description>
       <pubDate>Tue, 26 May 2026 16:00:00 -0400</pubDate>
-      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.m4a" length="1189212" type="audio/x-m4a" />
+      <guid isPermaLink="false">stock-briefing-2026-05-26</guid>
+      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-26.m4a" length="1189212" type="audio/mp4" />
       <itunes:duration>141</itunes:duration>
       <itunes:summary>Good evening, and welcome to your daily portfolio briefing for Tuesday, May 26th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. SoFi, ticker SOFI, closed at fifteen dollars and ninety-eight cents, up two point three percent on the day. In the news: Q1 Earnings Highlights SoFi NASDAQ SOFI Vs The Rest Of The Personal Loan Stocks. Quarterly earnings results are a good time to check in on a company s progress, especially compared to its peers in...</itunes:summary>
       <itunes:episode>2</itunes:episode>
@@ -31,11 +32,12 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Stock Briefing — 2026-05-25</title>
+      <title>Stock Briefing for 2026-05-25</title>
       <link>https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-25.m4a</link>
       <description>Good evening, and welcome to your daily portfolio briefing for Monday, May 25th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. UnitedHealth, ticker UNH, closed at three hundred eighty-eight dollars and forty-seven cents, up one point six percent on the day. Duolingo, ticker DUOL, closed at one hundred six dollars and sixty-one cents, up zero point nine percent on the day. Now for the stocks that moved lower today. Reddit, ticker RDDT, closed...</description>
       <pubDate>Mon, 25 May 2026 16:00:00 -0400</pubDate>
-      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-25.m4a" length="892039" type="audio/x-m4a" />
+      <guid isPermaLink="false">stock-briefing-2026-05-25</guid>
+      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-25.m4a" length="892039" type="audio/mp4" />
       <itunes:duration>106</itunes:duration>
       <itunes:summary>Good evening, and welcome to your daily portfolio briefing for Monday, May 25th, 2026. Here's what happened with your stocks today. Starting with the movers on the positive side. UnitedHealth, ticker UNH, closed at three hundred eighty-eight dollars and forty-seven cents, up one point six percent on the day. Duolingo, ticker DUOL, closed at one hundred six dollars and sixty-one cents, up zero point nine percent on the day. Now for the stocks that moved lower today. Reddit, ticker RDDT, closed...</itunes:summary>
       <itunes:episode>1</itunes:episode>
