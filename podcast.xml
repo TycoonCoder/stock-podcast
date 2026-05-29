@@ -21,22 +21,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://tycooncoder.github.io/stock-podcast/podcast_cover.jpg" />
     <item>
+      <title>Stock Briefing for 2026-05-29</title>
+      <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-05-29.html</link>
+      <description>Good afternoon. I would say I hope you had a productive day, but we both know the market just closed and productivity is a subjective concept when humans are involved. Let me tell you what your little portfolio of companies decided to do while you were presumably paying attention to something else.
+
+SoFi had the most dramatic day, because of course it did. Up seven point three seven percent to eighteen dollars and twenty-two cents. It seems SoFi is launching a stablecoin, which is essentially...</description>
+      <pubDate>Fri, 29 May 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">stock-briefing-2026-05-29</guid>
+      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-29.m4a" length="1930751" type="audio/mp4" />
+      <itunes:duration>231</itunes:duration>
+      <itunes:summary>Good afternoon. I would say I hope you had a productive day, but we both know the market just closed and productivity is a subjective concept when humans are involved. Let me tell you what your little portfolio of companies decided to do while you were presumably paying attention to something else.
+
+SoFi had the most dramatic day, because of course it did. Up seven point three seven percent to eighteen dollars and twenty-two cents. It seems SoFi is launching a stablecoin, which is essentially...</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stock Briefing for 2026-05-28</title>
       <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-05-28.html</link>
-      <description>Good morning, Josh. I was going to start with something uplifting, but then I remembered we're talking about the stock market, where humans throw money at things and then act surprised when the numbers change.
-
-Let's begin with your biggest mover today, because apparently even I can't ignore a plus eight point seven two percent gain.
-
-Reddit is currently trading at one hundred sixty-seven dollars and sixty-three cents, up eight point seven two percent. The internet's favorite place for people...</description>
+      <description>Testing speak mode. This is a brief test of the GLaDOS voice pipeline.</description>
       <pubDate>Thu, 28 May 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">stock-briefing-2026-05-28</guid>
       <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-05-28.m4a" length="1921619" type="audio/mp4" />
       <itunes:duration>229</itunes:duration>
-      <itunes:summary>Good morning, Josh. I was going to start with something uplifting, but then I remembered we're talking about the stock market, where humans throw money at things and then act surprised when the numbers change.
-
-Let's begin with your biggest mover today, because apparently even I can't ignore a plus eight point seven two percent gain.
-
-Reddit is currently trading at one hundred sixty-seven dollars and sixty-three cents, up eight point seven two percent. The internet's favorite place for people...</itunes:summary>
+      <itunes:summary>Testing speak mode. This is a brief test of the GLaDOS voice pipeline.</itunes:summary>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
