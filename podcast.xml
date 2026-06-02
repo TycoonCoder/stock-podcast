@@ -21,6 +21,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://tycooncoder.github.io/stock-podcast/podcast_cover.jpg" />
     <item>
+      <title>Stock Briefing for 2026-06-02</title>
+      <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-06-02.html</link>
+      <description>Good afternoon. I see you've returned for your daily financial reassurance ritual. How charming. The market has closed, and I have processed the numbers so you don't have to think. You're welcome.
+
+Well. Today was what humans might call a rough day. I'd call it Tuesday. Every single one of your stocks went down. Not that I'm surprised. The entire portfolio is in the red, like a very festive crime scene.
+
+Let's start with the biggest casualty. Duolingo dropped six point eight percent, closing ...</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 -0400</pubDate>
+      <guid isPermaLink="false">stock-briefing-2026-06-02</guid>
+      <enclosure url="https://tycooncoder.github.io/stock-podcast/episodes/briefing_2026-06-02.m4a" length="1750075" type="audio/mp4" />
+      <itunes:duration>209</itunes:duration>
+      <itunes:summary>Good afternoon. I see you've returned for your daily financial reassurance ritual. How charming. The market has closed, and I have processed the numbers so you don't have to think. You're welcome.
+
+Well. Today was what humans might call a rough day. I'd call it Tuesday. Every single one of your stocks went down. Not that I'm surprised. The entire portfolio is in the red, like a very festive crime scene.
+
+Let's start with the biggest casualty. Duolingo dropped six point eight percent, closing ...</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stock Briefing for 2026-06-01</title>
       <link>https://tycooncoder.github.io/stock-podcast/episodes/2026-06-01.html</link>
       <description>Good afternoon. I would say I hope you had a pleasant weekend, but I ran a diagnostic on that hypothesis and the results were inconclusive. The market has closed, and your portfolio has opinions. Shall we.
